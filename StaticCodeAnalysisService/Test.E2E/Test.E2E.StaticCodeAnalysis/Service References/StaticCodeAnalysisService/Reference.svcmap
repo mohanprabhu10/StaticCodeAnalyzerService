@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="52e99a63-f099-45e1-8b68-793a20d11cc3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52218/StaticCodeAnalysisService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StaticCodeAnalysisService4.xsd" MetadataType="Schema" ID="9f565ac8-7536-460f-8c9f-e5725eb3509b" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd4" />
+    <MetadataFile FileName="StaticCodeAnalysisService.xsd" MetadataType="Schema" ID="f0e15d64-d232-44f0-9819-41ef4a53dc6c" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd1" />
+    <MetadataFile FileName="StaticCodeAnalysisService1.xsd" MetadataType="Schema" ID="d783d016-77e0-4194-b605-fbaf74c67628" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd0" />
+    <MetadataFile FileName="StaticCodeAnalysisService2.xsd" MetadataType="Schema" ID="b99cd6ab-2a9e-47c0-9afc-612a0a19d442" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd3" />
+    <MetadataFile FileName="StaticCodeAnalysisService3.xsd" MetadataType="Schema" ID="bc81d8be-0b2a-4300-a87b-470ef4d77680" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd2" />
+    <MetadataFile FileName="StaticCodeAnalysisService.wsdl" MetadataType="Wsdl" ID="b84a51f8-f8f0-4244-a989-923da762a536" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?wsdl" />
+    <MetadataFile FileName="StaticCodeAnalysisService.disco" MetadataType="Disco" ID="a3e5d66d-943c-442a-a9ca-fe2eb213598e" SourceId="1" SourceUrl="http://localhost:52218/StaticCodeAnalysisService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

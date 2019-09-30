@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Models.GatingResult" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Models.GatingResult" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:52218/StaticCodeAnalysisService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Models.Tools" />
+  <xs:complexType name="ArrayOfGatingResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="GatingResult" nillable="true" type="tns:GatingResult" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfGatingResult" nillable="true" type="tns:ArrayOfGatingResult" />
+  <xs:complexType name="GatingResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Branch" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DateTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NoOfError" type="xs:int" />
+      <xs:element minOccurs="0" name="Reository" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Result" type="xs:boolean" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Models.Tools" minOccurs="0" name="Tool" type="q1:Tools" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GatingResult" nillable="true" type="tns:GatingResult" />
+</xs:schema>

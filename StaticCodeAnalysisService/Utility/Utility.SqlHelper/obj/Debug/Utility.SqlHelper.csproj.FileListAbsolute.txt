@@ -1,0 +1,13 @@
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.dll
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.pdb
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.dll.CodeAnalysisLog.xml
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.dll.lastcodeanalysissucceeded
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.dll
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.pdb
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.dll
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\bin\Debug\Utility.SqlHelper.pdb
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.csprojAssemblyReference.cache
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.csproj.CoreCompileInputs.cache
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.dll
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.pdb
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Utility\Utility.SqlHelper\obj\Debug\Utility.SqlHelper.csprojResolveAssemblyReference.cache

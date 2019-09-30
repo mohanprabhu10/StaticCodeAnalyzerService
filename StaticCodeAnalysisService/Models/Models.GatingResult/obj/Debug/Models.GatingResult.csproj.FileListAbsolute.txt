@@ -1,0 +1,16 @@
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.GatingResult.dll
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.GatingResult.pdb
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.Tools.dll
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.Tools.pdb
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.csprojAssemblyReference.cache
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.csproj.CoreCompileInputs.cache
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.csproj.CopyComplete
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.dll
+D:\CaseStudy2\Phase2\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.pdb
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.GatingResult.dll
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.GatingResult.pdb
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.Tools.dll
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\bin\Debug\Models.Tools.pdb
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.csprojResolveAssemblyReference.cache
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.dll
+C:\Users\320052456\Documents\Bootcamp\Phase2\Chethan\StaticCodeAnalysisService\Models\Models.GatingResult\obj\Debug\Models.GatingResult.pdb
